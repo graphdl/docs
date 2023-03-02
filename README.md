@@ -1,4 +1,4 @@
-# Nextra Docs Template 
+# 🜉 GraphDL - Graph Definition Language Specification
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
