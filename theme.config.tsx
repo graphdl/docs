@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/graphdl/graphdl',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/NhYuABP9',
   },
   docsRepositoryBase: 'https://github.com/graphdl/docs',
   footer: {
